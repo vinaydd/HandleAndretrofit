@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HadlerCallEverySecond</string>
+    <string name="error_title">error</string>
+    <string name="error_enter_username">enter user name</string>
+    <string name="error_enter_password">enter password</string>
+    <string name="ok">ok</string>
+</resources>
